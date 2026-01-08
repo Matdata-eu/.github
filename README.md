@@ -4,7 +4,7 @@ Welcome to the MATDAT GitHub organization! 🔬
 
 ## About MATDAT
 
-MATDAT ([matdata.eu](https://www.matdat.com/)) is a comprehensive online materials data platform designed for engineers, scientists, and researchers involved in material selection, testing, and research & development.
+MATDAT ([www.matdat.com](https://www.matdat.com/)) is a comprehensive online materials data platform designed for engineers, scientists, and researchers involved in material selection, testing, and research & development.
 
 ## Key Features
 
@@ -32,7 +32,7 @@ MATDAT ([matdata.eu](https://www.matdat.com/)) is a comprehensive online materia
 
 ## Getting Started
 
-Visit [matdata.eu](https://www.matdat.com/) to explore the platform and access materials data.
+Visit [www.matdat.com](https://www.matdat.com/) to explore the platform and access materials data.
 
 ## Contributing
 
