@@ -1,43 +1,42 @@
-# MATDAT - Materials Data Platform
+# MatData - Railway Data Consultancy
 
-Welcome to the MATDAT GitHub organization! 🔬
+Welcome to the MatData GitHub organization! 🚆
 
-## About MATDAT
+## About MatData
 
-MATDAT ([www.matdat.com](https://www.matdat.com/)) is a comprehensive online materials data platform designed for engineers, scientists, and researchers involved in material selection, testing, and research & development.
+MatData ([matdata.eu](https://matdata.eu/)) specializes in data consulting services for railway companies, focusing on strategic planning, modeling, and architecture. We handle development, data engineering, and DevOps challenges in the railway sector.
 
-## Key Features
+## Expertise
 
-### 📊 Database of Materials Properties
-- **1,500+ Materials**: Comprehensive data for steels, aluminium and titanium alloys, cast irons, weld metals, and other engineering materials
-- **Detailed Properties**: Static and cyclic stress-strain diagrams, fatigue parameters, and strain-life curves
-- **Fully Referenced**: All material properties are sourced from published literature and experimental results
-- **Advanced Search**: Search by 20+ parameters including material designation, heat treatment, and test conditions
-- **International Standards**: Support for multiple designation systems (DIN, ISO, EN, AISI, etc.)
+### 🚂 Railway Data Consulting
+- **Strategic Data Planning**: Comprehensive data strategy development for railway organizations
+- **Data Modeling & Ontology Engineering**: Semantic web technologies, Linked Data, RDF, and SPARQL
+- **IT Architecture**: Railway-specific infrastructure and interoperable systems design
+- **Standards & Interoperability**: Active involvement in railML, OpenRail, and ERA ontology initiatives
 
-### 🏢 Directory of Labs, Services & Suppliers
-- **12,000+ Global Connections**: Access to testing labs, service providers, equipment vendors, and material suppliers worldwide
-- **Comprehensive Services**: Find resources for testing, prototyping, manufacturing, and material sourcing
+### 🔧 Technical Implementation
+- **Data Engineering**: Hands-on implementation of data pipelines and integration solutions
+- **DevOps**: Infrastructure automation and deployment for railway data systems
+- **GIS & Spatial Data**: Geographic information systems and measurement system design
+- **GNSS Train Positioning**: Advanced train positioning and post-processing solutions
 
-### 🔬 Materials Research Data Repository
-- Long-term hosting and management solutions for materials research data
-- Support for compliance with data management requirements from grants and projects
-- Increased visibility through indexing in the Data Citation Index (DCI) by Web of Science
+### 📊 Knowledge & Innovation
+- **Semantic Technologies**: Knowledge graphs, SHACL validation, and GeoSPARQL for spatial queries
+- **Railway Standards**: Deep knowledge of railway systems and European rail infrastructure
+- **Open Source Collaboration**: Active contributor to railway data standardization and open-source projects
 
-## Who Benefits from MATDAT?
+## Services
 
-- **Industry & Manufacturing**: Product development, material selection, and simulation
-- **Academia**: Research, teaching, and finding labs or suppliers
-- **Labs & Service Providers**: Exposure to a wider client base and access to reliable reference data
+- Data strategy consulting for railway companies
+- Railway data modeling and ontology development
+- Training and workshops for data teams
+- Technical implementation and DevOps support
+- GIS and spatial data solutions
 
-## Getting Started
+## Get in Touch
 
-Visit [www.matdat.com](https://www.matdat.com/) to explore the platform and access materials data.
-
-## Contributing
-
-We welcome contributions from the materials science and engineering community. Check out our repositories to see how you can get involved!
+Visit [matdata.eu](https://matdata.eu/) to learn more about our consultancy services and expertise in railway data solutions.
 
 ---
 
-*For more information, visit [www.matdat.com](https://www.matdat.com/)*
+*MatData - Driving innovation in railway data management and interoperability*
